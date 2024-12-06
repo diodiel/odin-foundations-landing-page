@@ -91,3 +91,26 @@ button {
     border-radius: 10px;
     font-weight: bold;
 }
+
+/* Information Portion */
+
+.information-header {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    text-align: center;
+}
+
+.information-container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.information-container img {
+    height: 250px;
+}
+
+.info-items {
+    max-width: 250px;
+}
